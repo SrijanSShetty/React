@@ -1,2 +1,1 @@
-# React
-React full stack app
+# studentprofile
